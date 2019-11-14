@@ -9,7 +9,7 @@ readme = "README.md"
 homepage = "https://github.com/Mignet/rust-zimg"
 repository = "https://github.com/Mignet/rust-zimg"
 keywords = ["rust", "image", "cloud"]
-categories = ["image cloud server"]
+categories = ["web-programming::http-server"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
