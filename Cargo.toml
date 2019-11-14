@@ -10,7 +10,6 @@ homepage = "https://github.com/Mignet/rust-zimg"
 repository = "https://github.com/Mignet/rust-zimg"
 keywords = ["rust", "image", "cloud"]
 categories = ["web-programming::http-server"]
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 iron = "0.4.0"
