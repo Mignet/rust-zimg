@@ -1,9 +1,15 @@
 [package]
-name = "zimg"
+name = "rust-zimg"
 version = "0.1.0"
 authors = ["caiwei03 <caiwei03@ky-tech.com.cn>"]
 edition = "2018"
-
+license = "MIT"
+description = "a lightweight image storage and processing system. It's written in Rust and it has high performance in image field."
+readme = "README.md"
+homepage = "https://github.com/Mignet/rust-zimg"
+repository = "https://github.com/Mignet/rust-zimg"
+keywords = ["rust", "image", "cloud"]
+categories = ["image cloud server"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
